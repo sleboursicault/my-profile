@@ -1,0 +1,56 @@
+
+h1 { color:#522e38 ;
+	font-size: 80px; 
+	font-family: 'Dancing Script', cursive;
+	}
+
+body { background-color: #522e38;}
+
+h2{ color: #602437; 
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+	}
+
+h3 { color: #8a2846; 
+	font-family: 'Dancing Script', cursive; 
+	font-size: 50px;
+	
+	}
+
+p{ color: #b9375e; 
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+	}
+
+li { color: #e05780; 
+	font-family: 'Dancing Script', cursive; 
+	font-size: 30px;
+	list-style: none}
+	
+a{ text-decoration:none;
+	color: #ff7aa2; 
+	font-weight: bolder;
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px; 
+	}
+a:hover{ text-decoration: underline;
+	color: #522e38; }
+
+div {
+	background-color:#ffe0e9;
+	padding: 70px;
+	margin:150px;
+	text-align: center;
+box-shadow: 10px 15px;
+border-radius: 5px;}
+
+img {max-width:100%;
+    height:auto;}
+
+#profile {border-radius: 50%}
+
+#button {background-color: #b9375e;
+outline-style: ridge;}
+
+@media ( max-width: 720px) 
+
